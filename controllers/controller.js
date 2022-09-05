@@ -3,6 +3,7 @@ const UserModel=require("../models/model")
 const bcrypt = require("bcrypt");
 const jwt = require("jsonwebtoken");
 
+
 const privateKey2= "martini"
 
 const Controllers = {};
